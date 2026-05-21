@@ -1,4 +1,4 @@
-# 🤖MobIA — Gestão Inteligente de Leads
+# MobIA — Gestão Inteligente de Leads
 
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)

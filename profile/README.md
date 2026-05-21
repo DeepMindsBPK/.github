@@ -9,7 +9,7 @@
 
 ## 📋 Sobre o Projeto
 
-**CRM Bot** é uma plataforma inteligente desenvolvida para o **Hackathon Prati** que revoluciona a forma como corretores gerenciam leads. Integrado ao Microsoft Teams, o bot permite que vendedores registrem, acompanhem e organizem leads usando apenas **linguagem natural**, sem necessidade de acessar sistemas complexos manualmente.
+**CRM Bot** é uma plataforma inteligente desenvolvida para o **Hackathon Prati** que revoluciona a forma como corretores gerenciam leads. Integrado a uma plataforma que simula o Microsoft Teams. O bot permite que vendedores registrem, acompanhem e organizem leads usando apenas **linguagem natural**, sem necessidade de acessar sistemas complexos manualmente.
 
 Com dois bots especializados (CRM e Jira) e uma interface web intuitiva, a plataforma oferece uma experiência fluida tanto para **corretores** quanto para **gestores comerciais**.
 

@@ -81,7 +81,7 @@ crm-bot/
 │   ├── app.js
 │   └── style.css
 │
-├── 🔧 azure-bot/                # Bot CRM (backend)
+├── 🔧 azure-bot/                # Bot CRM do Azure (Não implementado por falta de recurso)
 │   ├── src/
 │   │   ├── bot.ts
 │   │   ├── api-client.ts
@@ -106,9 +106,9 @@ crm-bot/
 | Nome | Função |
 |------|--------|
 | **Davi** | 🎯 Líder do Projeto |
-| **Luis** | 🤖 Bot Jira + Integração Teams |
-| **Miguel** | ⚙️ Azure Bot, Infraestrutura |
-| **Luan** | 🎨 Frontend, Azure Bot, Infraestrutura |
+| **Luiz** | 🤖 Bot Jira + Integração Teams |
+| **Miguel** | ⚙️Infraestrutura |
+| **Luan** | 🎨 Frontend, Infraestrutura |
 | **Braian** | 💾 Backend, BD, API, VM Oracle |
 | **Jhon** | 🔐 Pentest e Segurança |
 
